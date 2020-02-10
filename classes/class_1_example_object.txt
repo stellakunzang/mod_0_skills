@@ -2,12 +2,12 @@ mango_sticky_rice
 
 price = 7.99
 vegan = true
-ingredients =  ("sticky rice", "mango", "brown sugar", "salt", "coconut milk")
+ingredients =  ["sticky rice", "mango", "brown sugar", "salt", "coconut milk"]
 name = "Mango Sticky Rice"
 
 make_vegan -> vegan = true
 
-list_ingredients = ("sticky rice", "mango", "brown sugar", "salt", "coconut milk")
+list_ingredients = ["sticky rice", "mango", "brown sugar", "salt", "coconut milk"]
 
 change_name -> name = "Momma's Mango Sticky Rice"
 
