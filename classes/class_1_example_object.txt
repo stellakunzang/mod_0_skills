@@ -9,6 +9,6 @@ make_vegan -> vegan = true
 
 list_ingredients = ("sticky rice", "mango", "brown sugar", "salt", "coconut milk")
 
-change_name = "Momma's Mango Sticky Rice"
+change_name -> name = "Momma's Mango Sticky Rice"
 
-discount_price = 6.99
+discount_price -> price = 6.99
