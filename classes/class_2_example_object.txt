@@ -1,0 +1,14 @@
+tea
+
+alcoholic_beverage = false
+price = 3.00
+temperature = "hot"
+caffeinated = true
+
+add_alcohol ->  alcoholic_beverage = true
+
+discount_price = 2.00
+
+check_caffeinated = true
+
+serve_cold -> temperature = "cold"

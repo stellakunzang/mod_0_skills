@@ -1,0 +1,14 @@
+beverages
+
+alcoholic_beverage (boolean)
+price (float)
+temperature (string)
+caffeinated (boolean)
+
+add_alcohol (change alcoholic_beverage from false to true)
+
+discount_price (subtract 1.00 from price)
+
+check_caffeinated (print boolean value for caffeinated)
+
+serve_cold (if temperature says anything other than "cold", change to "cold")

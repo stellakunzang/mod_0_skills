@@ -5,7 +5,7 @@ vegan = true
 ingredients =  ("sticky rice", "mango", "brown sugar", "salt", "coconut milk")
 name = "Mango Sticky Rice"
 
-make_vegan = true
+make_vegan -> vegan = true
 
 list_ingredients = ("sticky rice", "mango", "brown sugar", "salt", "coconut milk")
 
