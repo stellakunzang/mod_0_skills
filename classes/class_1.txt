@@ -1,0 +1,14 @@
+desserts
+
+price (float)
+vegan (boolean)
+ingredients (array)
+name (string)
+
+make_vegan (if vegan = false, change to true and update ingredients array to reflect changes)
+
+list_ingredients (prints the ingredients array)
+
+change_name (replaces name with new name)
+
+discount_price (subtract 1.00 from price)
