@@ -1,0 +1,9 @@
+food = "pizza"
+is_new = true
+food = "lasagna"
+num1 = 1
+num2 = 2
+num3 = num1 * num2 
+movies = ["Parasite", "Jurassic Park", "Labyrinth"]
+movies.pop
+movies.length
